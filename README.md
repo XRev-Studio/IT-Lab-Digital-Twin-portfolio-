@@ -1,52 +1,81 @@
-# Ball Sort
+# IT Lab Digital Twin VR
 
-**BALL SORT GAME PROJECT MADE AS OUR PRODUCT FOR XREV STUDIO**
+**Immerse yourself in the world of Digital Twins with IT Lab Digital Twin VR. Explore the concept of digital twins through an interactive and educational virtual reality experience, brought to you by TwinVR Studio.**
 
-![Ball Sort Game Banner](images/image1.png)
+![IT Lab Digital Twin VR Banner](images/it2.png)
 
-## About Ball Sort
+## 📌 Table of Contents
 
-Immerse yourself in the world of Ball Sort Puzzle Color Tubes and put your logical thinking and color sorting skills to the test. Whether you're looking for a quick mental workout or a relaxing way to unwind, this unique color sorting game is the perfect choice. Play anytime, anywhere, and enjoy a day filled with colorful ball sorting fun.
+1. [About the Project](#about-the-project)
+2. [Digital Twin Exploration](#digital-twin-exploration)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contribution](#contribution)
+6. [License](#license)
+7. [Contact](#contact)
+8. [Acknowledgements](#acknowledgements)
 
-## Details
+## 🖥️ About the Project
 
-### Description
+IT Lab Digital Twin VR is not just a VR application; it's an educational journey that introduces you to the concept of digital twins in the virtual world. Experience firsthand how digital twins bridge the gap between physical and digital realities.
 
-- Dive into the world of color sorting games with Ball Sort Puzzle Color Tubes.
-- Test your color sorting skills in this engaging and mind-bending ball sorting puzzle.
-- Experience the soothing effect of this game, perfect for relieving daily stress.
-- Easy to play, challenging to master - can you become the ultimate champion?
-- Strategically tap to move balls between bottles until they're perfectly sorted by color.
-- Unlock the excitement of becoming a Ball Sort Puzzle Color Tubes expert.
+## 🌐 Digital Twin Exploration
 
-### Gameplay
+### Introduction to Digital Twins
 
-- Pick up the top ball by tapping any bottle, then transfer it to another bottle.
-- Balls can only be stacked in a bottle with the same color on top and enough space.
-- Victory awaits when all balls of the same color are sorted into a single bottle.
-- Each bottle can hold a maximum of 4 balls.
+- **Digital vs. Physical**: Understand the fundamental differences between digital and physical representations.
+- **Twinning Concept**: Dive into the concept of creating digital replicas of real-world objects.
 
-### Key Features
+### Interactive Learning
 
-- Intuitive one-finger control: Simply tap to sort the balls.
-- Restart your current level anytime, giving you the chance to perfect your strategy.
-- Add an extra bottle by clicking "Add" to enhance your sorting capabilities.
-- Enjoy a penalty-free and time-limit-free gaming experience.
+- **Real-Time Simulations**: Witness real-time updates and simulations of physical objects in the virtual world.
+- **Hands-On Experience**: Interact with digital twins to learn about their applications in various industries.
 
-## Gallery
+### Practical Applications
 
-![Ball Sort Game Screenshot 1](images/image2.png)
-![Ball Sort Game Screenshot 2](images/image3.png)
+- **Industry Use Cases**: Explore how digital twins are used in fields like manufacturing, healthcare, and more.
+- **Problem Solving**: Engage in challenges that require you to apply digital twin technology to solve real-world problems.
 
-<!--## Video Showcase
+### Gallery
 
-<a href="https://www.youtube.com/watch?v=drg9xEKpbow" target="_blank"><img src="https://img.youtube.com/vi/drg9xEKpbow/0.jpg" 
-alt="Ball Sort Game Video 1" width="240" height="180" border="10" /></a>  -->
+![Digital Twin Exploration 1](images/it1.png)
+![Digital Twin Exploration 2](images/it3.png)
 
-## Links
+## 💻 Installation
 
-- [Playstore](https://play.google.com/store/apps/details?id=com.zuhad.ballsort.puzzle.color.tubes)
+**Follow these instructions to experience IT Lab Digital Twin VR:**
 
----
+1. **Requirements**
+   - VR headset (e.g., Oculus Rift, HTC Vive)
+   - Compatible VR-ready PC or gaming console
+2. **Setup**
+   - Download the IT Lab Digital Twin VR package from the releases section.
+   - Install the application following the on-screen instructions.
 
-© XRev Studio. All rights reserved.
+## 🎮 Usage
+
+**Here's how to get started with IT Lab Digital Twin VR:**
+
+1. Put on your VR headset and ensure it's properly calibrated.
+2. Launch the application from your VR platform.
+3. Choose the digital twin experience you'd like to explore.
+4. Engage with the virtual objects and scenarios to learn about digital twins.
+
+## 🤝 Contribution
+
+We welcome contributions from the educational and VR communities. If you'd like to contribute, please fork the repository and create a new pull request.
+
+## 📄 License
+
+Distributed under the XYZ License. See `LICENSE` for more information.
+
+## 📞 Contact
+
+XREV Studio
+- Email: contact@xrevstudio.com
+- Twitter: [@XREVStudio](https://twitter.com/TwinVRStudio)
+
+## 👏 Acknowledgements
+
+- [Unity Engine](https://unity.com/)
+- [SteamVR](https://developer.valvesoftware.com/wiki/SteamVR)
